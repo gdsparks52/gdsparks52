@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @gdsparks52
 - 👀 I’m interested in cars, gaming, hanging out with friends, and technology.
-- 🌱 I’m currently learning how to code
+- 🌱 I’m currently learning how to code.
+-----------------------------------------------------------------------------8
+- 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
