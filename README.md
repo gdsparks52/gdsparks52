@@ -1,12 +1,7 @@
 - 👋 Hi, I’m @gdsparks52
-- 👀 I’m interested in cars, gaming, hanging out with friends, and technology.
-- 🌱 I’m currently learning how to code.
--
-- 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👀 I’m interested in cars, gaming, technology, AI, and manufacturing.
+- 🌱 I’m currently lworking on my portfolio and all projects listed.
+- 📫 Find me on LinkedIn and Insta
 
 <!---
 gdsparks52/gdsparks52 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
