@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gdsparks52
 - 👀 I’m interested in cars, gaming, technology, AI, and manufacturing.
-- 🌱 I’m currently lworking on my portfolio and all projects listed.
+- 🌱 I’m currently working on my portfolio and all projects listed.
 - 📫 Find me on LinkedIn and Insta
 
 <!---
